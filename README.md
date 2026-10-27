@@ -1,6 +1,6 @@
 # kasa (嵩)
 
-Canonical repository: `etzhayyim/actor-kasa`.
+Canonical repository: `cloud-itonami/actor-kasa`.
 
 Kasa is a measurement organ of the Tamaki artificial organism, not an
 independent forecasting, investment, export-control, or targeting authority.
